@@ -6,6 +6,8 @@ My personal repository.
 
 ![image](https://wallpaperaccess.com/full/1868462.jpg)
 
+-----------------
+
 > [!TIP]
 > YOU CAN WRITE ANYTHING
 
